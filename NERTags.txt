@@ -1,0 +1,59 @@
+Murder (Assassinato)
+Substraction (Subtração)
+Agression (Agressão)
+
+ActiveAgent (Agente Ativo - Ator)
+Adult (Adulto)
+Underage (Menor de idade)
+AgentOverSeventy (Maior que 70)
+AgentUnderTwentyOne (Menor que 21)
+MentallySick (Mentalmente Doente)
+MentallyHealthy (Mentamente Saudavel)
+Militia (Faz parte de milicia)
+
+
+PassivePerson (Pessoa passiva -vitima)
+AgentUnderFourteen (Menor que 14)
+AgentOverSixty (Maior que 60)
+woman (Mulher)
+pregnant (Grávida)
+handicapped (Deficiente)
+deceased (falecido)
+
+Intention (Intenção)
+death (matar)
+malPractice 
+makeUnusable
+stealing
+economicAdvantage
+
+
+Situation
+
+CrimeObject
+Life
+ChattelObject
+Psychological
+PhysicalBody
+
+recurrence
+turmoil 
+concealingOtherCrime
+frivolousReason
+cruelMeansEmployment 
+
+PrecludeDefense
+DomesticViolence
+FemaleDiscrimination
+abuseAutority
+abuseOfPower
+AgentMisfortune
+HeatOfPassion
+SocialMoralReason
+EscapeFromCrimeScene
+NoHarmReducation 
+WithoutImmediateAid
+RelativePresence 
+
+
+
