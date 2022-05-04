@@ -1,8 +1,8 @@
-Murder (Assassinato)
+Murder (Homicídio)
 Substraction (Subtração)
 Agression (Agressão)
 
-ActiveAgent (Agente Ativo - Ator)
+ActiveAgent (Ator)
 Adult (Adulto)
 Underage (Menor de idade)
 AgentOverSeventy (Maior que 70)
@@ -11,8 +11,7 @@ MentallySick (Mentalmente Doente)
 MentallyHealthy (Mentamente Saudavel)
 Militia (Faz parte de milicia)
 
-
-PassivePerson (Pessoa passiva -vitima)
+PassivePerson (Vitima)
 AgentUnderFourteen (Menor que 14)
 AgentOverSixty (Maior que 60)
 woman (Mulher)
@@ -20,40 +19,32 @@ pregnant (Grávida)
 handicapped (Deficiente)
 deceased (falecido)
 
-Intention (Intenção)
 death (matar)
-malPractice 
-makeUnusable
-stealing
-economicAdvantage
+malPractice (má prática)
+makeUnusable (tornar inutilizável)
+stealing (roubo)
+economicAdvantage (vantagem economica)
 
+Life (vida)
+ChattelObject (objeto de propriedade)
+Psychological (psicologico)
+PhysicalBody (corpo físico)
 
-Situation
+recurrence (recorrência do crime)
+turmoil (tumulto)
+concealingOtherCrime (ocultando outro crime)
+frivolousReason (razão frívola)
+cruelMeansEmployment (emprego de meios crueis)
 
-CrimeObject
-Life
-ChattelObject
-Psychological
-PhysicalBody
-
-recurrence
-turmoil 
-concealingOtherCrime
-frivolousReason
-cruelMeansEmployment 
-
-PrecludeDefense
-DomesticViolence
-FemaleDiscrimination
-abuseAutority
-abuseOfPower
-AgentMisfortune
-HeatOfPassion
-SocialMoralReason
-EscapeFromCrimeScene
-NoHarmReducation 
-WithoutImmediateAid
-RelativePresence 
-
-
-
+PrecludeDefense (impedir defesa)
+DomesticViolence (violencia domestica)
+FemaleDiscrimination (discriminação feminina)
+abuseAutority (abuso de autoridade)
+abuseOfPower (abuso de poder)
+AgentMisfortune (infortúnio do agente)
+HeatOfPassion (calor do momento?)
+SocialMoralReason (razão moral social)
+EscapeFromCrimeScene (fuga da cena do crime)
+NoHarmReducation  (Redução de Danos é uma estratégia de saúde pública que busca controlar possíveis consequências adversas ao consumo de psicoativos)
+WithoutImmediateAid (sem apoio imediato)
+RelativePresence (presença relativa)
