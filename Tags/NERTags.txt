@@ -1,0 +1,54 @@
+### Qual é a ação ###
+Murder (Homicídio)
+Substraction (Subtração)
+Agression (Agressão)
+
+
+### Sobre o ator ###
+ActiveAgent (Ator da ação)
+Underage (Menor de idade)
+AgentOverSeventy (Maior que 70)
+AgentUnderTwentyOne (Menor que 21)
+MentallySick (Mentalmente Doente)
+Militia (Faz parte de milicia)
+
+### Sobre a vitima ###
+PassivePerson (Vitima)
+AgentUnderFourteen (Menor que 14)
+AgentOverSixty (Maior que 60)
+woman (Mulher)
+pregnant (Grávida)
+handicapped (Deficiente)
+deceased (Morto)
+
+### Sobre a intenção ###
+death (matar)
+malPractice (não intencional)
+makeUnusable (tornar inutilizável)
+stealing (roubar)
+economicAdvantage (vantagem economica)
+
+### Objeto do crime ###
+Life (vida)
+ChattelObject (objeto de propriedade - bolsa, carteira, dinheiro, etc.)
+Psychological (agressão/tortura psicologica)
+PhysicalBody (agressão/tortura corpo físico)
+
+### Circunstancias agravantes e atenuantes ###
+recurrence (recorrência do crime)
+turmoil (tumulto)
+concealingOtherCrime (ocultando outro crime)
+frivolousReason (razão fútil)
+cruelMeansEmployment (emprego de meios crueis)
+PrecludeDefense (defesa reduzida)
+DomesticViolence (violencia domestica)
+FemaleDiscrimination (discriminação feminina)
+abuseAutority (abuso de autoridade)
+abuseOfPower (abuso de poder)
+AgentMisfortune (tribulação da vitima)
+HeatOfPassion (calor do momento)
+SocialMoralReason (valor social/moral)
+EscapeFromCrimeScene (fuga da cena do crime)
+NoHarmReducation  (Sem redução de danos - Redução de Danos é uma estratégia de saúde pública que busca controlar possíveis consequências adversas ao consumo de psicoativos)
+WithoutImmediateAid (sem auxilio imediato)
+RelativePresence (presença de familiar)
