@@ -47,7 +47,9 @@ frivolousReason (razão fútil)
 NoHarmReducation  (Sem redução de riscos - Circunstância agravante em que não há redução do risco por parte do agente ativo)
 PrecludeDefense (defesa reduzida)
 recurrence (recorrência do crime)
-RelativePresence (presença de familiar)
+Relative (Circunstância agravante representando o crime praticado contra algum
+familiar)
+RelativePresence (Circunstância agravante representando o crime praticado na presença de algum familiar)
 WithoutImmediateAid (sem auxilio imediato)
 
 ### Circunstancias atenuantes ###
