@@ -1,6 +1,6 @@
 ### Qual é a ação ###
 Murder (Homicídio)
-Substraction (Subtração)
+SUBTRACTION (Subtração)
 Agression (Agressão)
 
 
